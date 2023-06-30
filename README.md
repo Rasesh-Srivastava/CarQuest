@@ -1,6 +1,6 @@
 # CarQuest
 
-Full-Stack 'Used-Car Selling Website' for a car business owner built using Django and Bootstrap (HTML, CSS, JavaScipt).
+Full-Stack 'Used-Cars Selling Website' for a car business owner built using Django and Bootstrap (HTML, CSS, JavaScipt).
 
 ## User-Side Features
 
