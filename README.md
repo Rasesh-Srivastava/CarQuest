@@ -34,17 +34,27 @@ Full-Stack 'Used-Car Selling Website' for a car business owner built using Djang
 
 ## Screenshots
 
-![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
+- [All Screenshots](https://drive.google.com/drive/folders/1r6BWLZf7pcqhgBeGX2-Yi6_h_AJT1m21?usp=sharing)
 
-![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
+![Home](https://drive.google.com/uc?export=view&id=1kovt-z3PebJUuuUzL7Uv_uWKkvKxPG8Y)
 
-![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
+![Featured Cars](https://drive.google.com/uc?export=view&id=15d814sDVSdNQiR-prsXd8E9vZ6Uy7vhu)
 
-![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
+![Latest Cars](https://drive.google.com/uc?export=view&id=1Yw6NvHaVk7rjzNE8UKv5PqRq_Iuk2nL9)
 
-![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
+![Cars](https://drive.google.com/uc?export=view&id=1injsGlloBJ13R6sWyGRl3rXq03yDpGXo)
 
-![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
+![admin 1](https://drive.google.com/uc?export=view&id=1sj9rGZnBIENPVh2jKsT4xX_kfkzjI5ke)
+
+![admin 2](https://drive.google.com/uc?export=view&id=1xF6__cSbq-yiXzyxHBOQk08RWSoMBoh9)
+
+![Car Detail](https://drive.google.com/uc?export=view&id=19WEITaL5aixPUGyOr25NWbf9jQnQPYPv)
+
+![Query Form](https://drive.google.com/uc?export=view&id=1w_GMWU3TjaO1-i8qShouGrq_3GcB_lwq)
+
+![Contact Us](https://drive.google.com/uc?export=view&id=1PekIZrLkKXBqkx8J7U4eLFELZl-1zmD2)
+
+![Register](https://drive.google.com/uc?export=view&id=1E8thTV4qZizRyuOd-2y4xJ8OLpB0okqm)
 
 
 ## Steps to Run the Website Locally
