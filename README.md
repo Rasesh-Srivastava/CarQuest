@@ -61,6 +61,7 @@ Full-Stack 'Used-Car Selling Website' for a car business owner built using Djang
 
 ![Register](https://drive.google.com/uc?export=view&id=1E8thTV4qZizRyuOd-2y4xJ8OLpB0okqm)
 
+![Email](https://drive.google.com/uc?export=view&id=1S0wHy-8LeNTQC9mWzNTUR_CwOpMIEmk2)
 
 ## Steps to Run the Website Locally
 
